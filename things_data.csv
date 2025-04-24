@@ -1,0 +1,31 @@
+id,name,type,color,weight,price,age,description
+1,iPhone 14 Pro,Mobile Phone,Silver,206g,999.99,2,Apple's flagship smartphone
+2,Golden Retriever,Animal,Golden,70kg,1200.0,3,Friendly family dog breed
+3,Tesla Model 3,Car,Red,1800kg,42990.0,2,Electric sedan with autopilot
+4,Interstellar,Movie,N/A,N/A,19.99,9,Sci-fi space exploration film
+5,Bohemian Rhapsody,Music,N/A,N/A,1.29,48,Queen's iconic song
+6,Soccer,Sport,N/A,450g,25.0,150,Ball game with two teams of 11 players
+7,Beach House,House,White,N/A,850000.0,5,Vacation property near the ocean
+8,Mickey Mouse,Cartoon,Black/Red,N/A,0.0,95,Disney's iconic character
+9,Eiffel Tower,Tourist Attraction,Iron-colored,10100 tons,25.0,134,Famous Paris landmark
+10,MacBook Pro,Computer,Space Gray,2kg,1999.99,1,Apple laptop for professionals
+11,Sony PlayStation 5,Gaming Console,White,4.5kg,499.99,3,Next-gen gaming console with ray tracing
+12,Bengal Cat,Animal,Spotted Brown,6kg,1800.0,2,Domestic cat with wild appearance
+13,Jeep Wrangler,Car,Black,1950kg,32995.0,1,Off-road 4x4 vehicle with removable top
+14,The Shawshank Redemption,Movie,N/A,N/A,14.99,29,Prison drama based on Stephen King novella
+15,Stairway to Heaven,Music,N/A,N/A,1.99,52,Led Zeppelin's iconic rock ballad
+16,Basketball,Sport,Orange,620g,29.99,130,Team sport with two hoops and ten players
+17,Modern Loft,House,Gray,N/A,420000.0,3,Open concept city apartment with industrial design
+18,SpongeBob SquarePants,Cartoon,Yellow,N/A,0.0,24,Animated series about a sponge living in Bikini Bottom
+19,Great Wall of China,Tourist Attraction,Gray/Tan,Unknown,20.0,2300,Ancient defensive wall spanning thousands of miles
+20,Bose QuietComfort Earbuds,Electronics,Black,8.5g,279.99,2,Wireless noise-cancelling earbuds
+21,Aloe Vera Plant,Plant,Green,1.5kg,15.99,1,Succulent plant with medicinal properties
+22,Harry Potter Series,Book,Various,3.5kg,120.0,26,Fantasy novel series by J.K. Rowling
+23,Rolex Submariner,Watch,Silver/Blue,150g,9995.0,3,Luxury diving watch with date display
+24,Adidas Ultraboost,Footwear,White,310g,180.0,1,Running shoes with responsive cushioning
+25,Chocolate Cake,Food,Brown,1.2kg,28.99,0,Sweet dessert with chocolate frosting
+27,WordPress,Software,N/A,N/A,0.0,19,Content management system for websites
+28,Amazon Echo Dot,Smart Device,Black,340g,49.99,2,Voice-controlled smart speaker with Alexa
+29,Niagara Falls,Natural Wonder,Blue,N/A,0.0,12000,Massive waterfall on US-Canada border
+30,Monopoly,Board Game,Multi-colored,860g,19.99,87,Property trading board game
+31,Game of Throne,Book,Black,1kg,30,10,One of the best selling books
